@@ -12,5 +12,5 @@ print("\nYour Tasks:")
 for index ,task in enumerate(sample_list,start=1):
     print(f'{index}.{task}')
 
-show_tasks=[f'\n{index}:{task}' for index ,task in enumerate (sample_list,start=1)]
+show_tasks=[f'{index}:{task}' for index ,task in enumerate (sample_list,start=1)]
 print(show_tasks)

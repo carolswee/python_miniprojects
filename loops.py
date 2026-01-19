@@ -37,8 +37,7 @@ while True:
         marks.append(Sci)
         marks.append(Cre)
         print(sum(marks))
-        mean=marks/len(marks)
-        print(mean)
+       
 
 
 
