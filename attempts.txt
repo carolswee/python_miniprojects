@@ -1,0 +1,13 @@
+attempt: jake
+attempt: jane
+1: njeri
+1: carol
+2: jane
+3: jack
+4: joe
+1: anna at <built-in method now of type object at 0x00007FFD0EA888E0>
+2: jael at <built-in method now of type object at 0x00007FFD0EA888E0>
+3: jim at <built-in method now of type object at 0x00007FFD0EA888E0>
+1: rose at 2026-01-16 17:59:40.687376
+2: vase at 2026-01-16 17:59:43.843923
+3: mary at 2026-01-16 17:59:47.924696
